@@ -15,7 +15,7 @@
 <!--[twitter]: 
 [youtube]:
 [instagram]:-->
-[linkedin]: www.linkedin.com/in/kifuko-gabriel-8256a9390
+[linkedin]: https://www.linkedin.com/in/kifuko-gabriel-8256a9390
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
